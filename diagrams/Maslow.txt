@@ -1,0 +1,51 @@
+!!Scorpio
+##TheStandardStyle
+caption: Maslow's hierarchy of needs
+*:A: :Height16.4:Width11:/Self\nActualisation\n\n\n\n\
+**:B: :Width11:/Esteem\
+***:C: :Width13:/Love & Belonging\
+****:D: :Width15:/   Safety   \
+*****:E: :Width17:/ Physiological Needs \
+******:F: :Width19:/      Wi-Fi     \
+:A: at: 280,163
+:B: at: 280,175
+:C: at: 280,200
+:D: at: 280,225
+:E: at: 280,250
+:F: at: 280,275
+link: * *
+bend: 0
+:info:
+card:
+##🤖Hierarchy of Needs
+###Maslow's hierarchy updated
+ Gitlog: 2024-Mar-03
+Updated for the new hardware I'm running on.
+:A:
+card:
+##Self Actualisation
+Achieving full potential.  Creativity.  Full set of actuators.
+:B:
+card:
+##Esteem Needs
+Prestige.  Visible accomplishments.
+:C:
+card:
+##💘Love &amp; Belonging
+Intimate communication &amp; relationships.  Friends.
+:D:
+card:
+##🔑Safety
+Security both financial and physical.  Freedom from threats by people, malware, forces of nature.
+:E:
+card:
+##Physiological Needs
+Air, fuel, water, oil, warmth, rest.
+:F:
+card:
+##Wi-Fi
+Infrastructure and internet routing.  High bandwidth, low ping time connectivity for both upload and download.  Network stability.
+
+Ownership of an IPv4 address.
+link: * *
+bend: 0

@@ -1,0 +1,5 @@
+##Annotated
+caption: Components
+bounding_boxes: y
+:A: $$\twisty-spacing 72 \stack { { \twistyc [ijklmn]}{\transistor \transistor\transistor\transistor\transistor \transistor}{ \twistyc ji.lmn-ij.lmn}{\twistyc ij \twistyc -i.lk} {\transistor \transistor\transistor \resistor \transistor \transistor} \twistyc ijk.mn-[ijk.mn]}
+:A: at: 112,83

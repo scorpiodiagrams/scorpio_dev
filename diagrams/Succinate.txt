@@ -1,0 +1,36 @@
+!!Scorpio
+##Molecule
+caption: Succinate
+:A: C
+:B: C
+:C: C
+:D: O
+:E: O
+:F: C
+:G: O
+:H: O
+size: 101
+:A: at: 229,189
+:B: at: 196,190
+:C: at: 161,191
+:D: at: 137,220
+:E: at: 134,161
+:F: at: 264,188
+:G: at: 286,158
+:H: at: 286,216
+link: * *
+bend: 0
+link: A B
+multiplicity: 1
+link: B C
+multiplicity: 1
+link: C D
+multiplicity: 2
+link: C E
+multiplicity: 1
+link: A F
+multiplicity: 1
+link: F G
+multiplicity: 2
+link: F H
+multiplicity: 1

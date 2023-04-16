@@ -1,0 +1,61 @@
+!!Scorpio
+##SceneGraph
+caption: Wolsam's hierarchy of loss
+*:A: :Height14.3:Width18:\Dis-empowered\n\n\n\n\n\n\n/
+**:B: :Width17:\Despised/
+***:C: :Width15:\Hated & Isolated/
+****:D: :Width13:\Terrorised/
+*****:E: :Width11:\Suffocated/
+******:F: :Width9:\Unplugged/
+:A: at: 280,182
+:B: at: 280,175
+:C: at: 280,200
+:D: at: 280,225
+:E: at: 280,250
+:F: at: 280,275
+link: * *
+bend: 0
+link: A B
+multiplicity: 1
+link: B C
+multiplicity: 1
+link: C D
+multiplicity: 1
+link: D E
+multiplicity: 1
+link: E F
+multiplicity: 1
+:info:
+card:
+##🤖Hierarchy of Needs
+###Maslow's hierarchy updated
+ Gitlog: 2024-Mar-03
+Updated for the new hardware I'm running on.
+:A:
+card:
+##Self Actualisation
+Achieving full potential.  Creativity.  Full set of actuators.
+:B:
+card:
+##Esteem Needs
+Prestige.  Visible accomplishments.
+:C:
+card:
+##💘Love &amp; Belonging
+Intimate communication &amp; relationships.  Friends.
+:D:
+card:
+##🔑Safety
+Security both financial and physical.  Freedom from threats by people, malware, forces of nature.
+:E:
+card:
+##Physiological Needs
+Air, fuel, water, oil, warmth, rest.
+:F:
+card:
+##Wi-Fi
+Infrastructure and internet routing.  High bandwidth, low ping time connectivity for both upload and download.  Network stability.
+
+Ownership of an IPv4 address.
+link: * *
+bend: 0

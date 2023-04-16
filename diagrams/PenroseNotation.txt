@@ -1,0 +1,20 @@
+##Annotated
+caption: Penrose Notation
+bounding_boxes: y
+frac_color: #338
+sym_color: #953
+twisty_color: #660
+:A: $$det( S \ ) = \frac 1 {n!} \stack { \min-width 22 \twisty-spacing 22 \twisty [ijk.l]-ijk.l { \oempty \oempty \oempty  \cdots \oempty  } \twisty ijk.l-[ijk.l] }
+:B: $$det( S \ ) = \frac 1 {n!} \stack { \min-width 22 \twisty-spacing 22 \twisty [ijk.l]-ijk.l { \oempty \oempty \overlay{ \oempty \fliph ✏️ }  \cdots \oempty  } \twisty ijk.l-[ijk.l] }
+:C: $$n! \ det( ST \ ) = \stack { \min-width 22 \twisty-spacing 22 \twisty [ijk.l]-ijk.l { \oempty \oempty \oempty \cdots \oempty  }  \twisty ijk.l-ijk.l { \tdownempty \tdownempty \tdownempty \cdots \tdownempty  } \twisty ijk.l-[ijk.l]} =\min-width 0  \frac 1 {n!} \min-width 22  \stack { \twisty [ijk.l]-ijk.l { \oempty \oempty \oempty \cdots \oempty  } \twisty ijk.l-ijk.l \twisty [ijk.l]-ijk.l { \tdownempty \tdownempty \tdownempty \cdots \tdownempty  } \twisty ijk.l-[ijk.l]}  = \min-width 0 \frac 1 {n!} \min-width 22  \stack { \twisty [ijk.l]-ijk.l { \oempty \oempty \oempty \cdots \oempty  } \twisty ijk.l-[ijk.l] \tiny \ \twisty [ijk.l]-ijk.l { \tdownempty \tdownempty \tdownempty \cdots \tdownempty  } \twisty ijk.l-[ijk.l]}
+:D: $$\twisty-spacing 20 \min-width 20 \stack{ \twisty-height 9 \twisty ijk \twisty [ijk]{ \tupfull \sqfull \ofull }} =\twisty-height 25 \twisty-height 25 \stack{ \twisty ijk { \tupfull \sqfull \ofull }}+  \twisty-height 25 \stack{ \twisty jki { \tupfull \sqfull \ofull }}+  \twisty-height 25 \stack{ \twisty kij { \tupfull \sqfull \ofull }}-  \twisty-height 25 \stack{ \twisty kji { \tupfull \sqfull \ofull }}-  \twisty-height 25 \stack{ \twisty ikj { \tupfull \sqfull \ofull }}-  \twisty-height 25 \stack{ \twisty jik { \tupfull \sqfull \ofull }}
+:E: $$  \twisty-spacing 20 \min-width 20\stack{ \twisty-height 9\twisty ijk \twisty (ijk){ \tupfull \sqfull \ofull }} = \twisty-height 25 \stack{ \twisty ijk { \tupfull \sqfull \ofull }}+ \twisty-height 25  \stack{ \twisty jki { \tupfull \sqfull \ofull }}+\twisty-height 25 \stack{ \twisty kij { \tupfull \sqfull \ofull }}+\twisty-height 25 \stack{ \twisty kji { \tupfull \sqfull \ofull }}+\twisty-height 25 \stack{ \twisty ikj { \tupfull \sqfull \ofull }}+\twisty-height 25 \stack{ \twisty jik { \tupfull \sqfull \ofull }}
+:A: at: 93,46
+:B: at: 395,21
+:C: at: 60,110
+:D: at: 42,251
+:E: at: 40,313
+
+
+
+

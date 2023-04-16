@@ -1,0 +1,142 @@
+!!Scorpio
+##MindMap
+*:A: The Seven\nDwarves
+**:B: Happy
+**:C: Grumpy
+**:D: Sneezy
+**:E: Dopey
+**:F: Bashful
+**:G: Sleepy
+**:H: Doc
+*:I: Santa's\nReindeer
+**:J: Rudolph
+**:K: Dasher
+**:L: Prancer
+**:M: Vixen
+**:N: Comet
+**:O: Cupid
+**:P: Donner
+**:Q: Blitzen
+**:R: Olive
+*:S: Bridgerton\nChildren
+**:T: Anthony
+**:U: Benedict
+**:V: Colin
+**:W: Daphne
+**:X: Eloise
+**:Y: Francesca
+**:Z: Gregory
+**:AA: Hyacinth
+link: * *
+bend: -20
+caption: Collections of Characters
+:A: at: 273,165
+card:
+##The Seven Dwarves
+placeholder...
+:B: at: 57,103
+card:
+##😊Happy
+placeholder...
+:C: at: 83,59
+card:
+##😠Grumpy
+placeholder...
+:D: at: 172,36
+card:
+##🤧Sneezy
+placeholder...
+:E: at: 273,27
+card:
+##🚬Dopey
+placeholder...
+:F: at: 365,39
+card:
+##Bashful
+Bashful is the most often forgotten of the Seven dwarves *except* by computer programmers (who use bash).
+:G: at: 451,44
+card:
+##😴Sleepy
+placeholder...
+:H: at: 509,83
+card:
+##👨‍⚕️Doc
+placeholder...
+:I: at: 303,254
+card:
+##🎅Santa's
+###🦌Reindeer
+placeholder...
+:J: at: 58,246
+card:
+##🐽Rudolph
+placeholder...
+:K: at: 48,306
+card:
+##🏃‍Dasher
+placeholder...
+:L: at: 52,356
+card:
+##💃Prancer
+placeholder...
+:M: at: 123,373
+card:
+##🦊Vixen
+placeholder...
+:N: at: 192,368
+card:
+##☄Comet
+placeholder...
+:O: at: 276,374
+card:
+##💘Cupid
+placeholder...
+:P: at: 352,378
+card:
+##⛈Donner
+placeholder...
+:Q: at: 440,376
+card:
+##⚡Blitzen
+placeholder...
+:R: at: 520,380
+card:
+##Olive
+Olive is the most elusive of the reindeer, and some think is actually a mishearing of 'All of the other reindeer' as 'Olive the other reindeer'.
+:S: at: 459,201
+card:
+##Bridgerton Children
+placeholder...
+:T: at: 626,106
+card:
+##Anthony
+placeholder...
+:U: at: 626,146
+card:
+##Benedict
+placeholder...
+:V: at: 622,184
+card:
+##Colin
+placeholder...
+:W: at: 631,219
+card:
+##Daphne
+placeholder...
+:X: at: 628,256
+card:
+##Eloise
+placeholder...
+:Y: at: 652,290
+card:
+##Francesca
+placeholder...
+:Z: at: 645,331
+card:
+##Gregory
+placeholder...
+:AA: at: 649,371
+card:
+##Hyacinth
+placeholder...
+:end

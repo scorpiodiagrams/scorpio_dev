@@ -1,0 +1,30 @@
+__NOTOC__
+
+
+{{ATK_Header}}
+
+This is the spec for the interactive diagram which shows just a texture.
+
+Here's the result:
+
+-----
+{{#widget:WikiDiagram|page=Texture|init=yes}}
+-----
+
+The detailed data for the chart follows.
+
+<pre>START</pre>
+
+<pre>ADD:DATA=
+{
+"Texture":"Default"
+}
+</pre>
+
+With the layout established, the details that follow customise the objects.
+
+
+
+<pre>CREDITS:CAPTION=Isobars of a textures;card=</pre>
+<h3>Isobars</h3>
+<b>Credits:</b> <em>James Crook ©2021</em>

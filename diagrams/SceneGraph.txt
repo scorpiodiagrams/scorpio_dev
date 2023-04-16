@@ -1,0 +1,39 @@
+!!Scorpio
+##SceneGraph
+caption: Scene graph for image manipulation
+*:A: :InStem:OutStem:["😎Light balance           "<
+**:B: :Width3:<"3"]
+*:C: ["B Roll, Asset 2        "]
+*:D: :InStem:OutStem:["..mask style-3, where"]
+*:E: ["Digital SFX, Mask 4"<
+*:F: :InStem:OutStem:Width5:Height0.9:["          "]
+*:G: <"sample..." <
+:H: uh?
+:I: (I)
+:J: (J)
+:K: (K)
+:L: :Width2:<"L")
+:A: at: 209,140
+:B: at: 321,140
+:C: at: 228,164
+:D: at: 209,188
+:E: at: 227,212
+:F: at: 144,231
+:G: at: 417,214
+:H: at: 1002,72
+:I: at: 512,83
+:J: at: 592,53
+:K: at: 598,142
+:L: at: 529,148
+link: E G --""--
+link: G L --""--
+bend: -45
+link: L I --""--
+link: I J --""--
+link: J K --""--
+link: K L --""--
+:info:
+card:
+##Code Tiles
+* Missing pieces (syntax errors) are indicated by providing a tile in the cloze style.
+:end

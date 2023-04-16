@@ -1,0 +1,41 @@
+!!Scorpio
+##CodeTiles
+caption: Drag and drop tiles for programming
+*:A: :OutStem:[" if "<
+:B: :Width8.67:<"x < threshold ">
+*:C: >" { "]
+****:D: ["x++"]
+*:E: :InStem:OutStem:Width5:[} else {]
+****:F: ["x--"]
+*:G: :InStem:Width5:["}          "]
+****:H: ["Print( "Hello World!" )" ]
+:I: (I)
+:J: (J)
+:K: (K)
+:A: at: 209,140
+:B: at: 284,140
+:C: at: 357,140
+:D: at: 236,165
+:E: at: 232,190
+:F: at: 230,215
+:G: at: 232,240
+:H: at: 287,265
+:I: at: 485,200
+:J: at: 551,270
+:K: at: 461,280
+link: * *
+nolink:
+link: I J ~~""~~>
+bend: 50
+link: J K ~~""~~>
+bend: 50
+link: K I ~~""~~>
+bend: 50
+:info:
+card:
+##Code Tiles
+* Missing pieces (syntax errors) are indicated by providing a tile in the cloze style.
+* The tiles can do data flow programming, as in a scene graph, using the links to connect blocks.
+* The tiles have more break points in them than Scratch.  You can drop in as many else-if tiles as ypu like to extend an 'if'.
+* I'm trialling some lower-border-width versions for use in a conventional text editor.
+:end

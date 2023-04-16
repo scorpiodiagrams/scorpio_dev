@@ -1,0 +1,55 @@
+!!Scorpio
+##Molecule
+caption: Citrate
+:A: O
+:B: C
+:C: O
+:D: C
+:E: C
+:F: O
+:G: C
+:H: O
+:I: O
+:J: C
+:K: C
+:L: O
+:M: O
+:A: at: 55,170
+:B: at: 80,200
+:C: at: 55,230
+:D: at: 120,200
+:E: at: 160,200
+:F: at: 160,160
+:G: at: 160,240
+:H: at: 130,265
+:I: at: 190,265
+:J: at: 200,200
+:K: at: 240,200
+:L: at: 265,170
+:M: at: 265,230
+link: * *
+bend: 0
+link: A B
+multiplicity: 1
+link: B C
+multiplicity: 2
+link: B D
+multiplicity: 1
+link: D E
+multiplicity: 1
+link: E F
+multiplicity: 1
+link: E G
+multiplicity: 1
+link: G H
+multiplicity: 2
+link: G I
+multiplicity: 1
+link: E J
+multiplicity: 1
+link: J K
+multiplicity: 1
+link: K L
+multiplicity: 2
+link: K M
+multiplicity: 1

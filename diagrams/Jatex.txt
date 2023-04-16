@@ -1,0 +1,21 @@
+##Annotated
+caption: Using \twisty with tiles
+shade_jrefs: y
+:G: $$\twisty kji \twisty jki \twisty kij = \stack {\twisty kji \twisty jki }
+:H: $$\stack { \twisty ijk \zigzag #eee  { \ \ \ \stack { \twisty kji  \round #000 bbbb \round \twisty ikj} \ \ \} \zigzag \twisty ijk }
+:I: $$\stack { \twisty .............ij-.......i......j \round \stack { \twisty i \forward {\ \\ } \backward \twisty ijk } \round    \twisty ....p.ijk.....l-.p.i.k.lj{\\\\\\\\\\ \straight { \\\ } \round}  \twisty .i...j.kl-.i...j.kl  }
+:A: at: 86,61
+:B: at: 29,220
+:C: at: 68,294
+:D: at: 225,197
+:E: at: 132,171
+:F: at: 30,185
+:G: at: 457,59
+jref:N: \twisty jki
+:H: at: 211,40
+:I: at: 295,20
+link: E J ---->
+link: E K ---->
+link: E M ---->
+link: F L ---->>>
+

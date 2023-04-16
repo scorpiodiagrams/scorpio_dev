@@ -1,0 +1,52 @@
+##Annotated
+boxed: 50
+caption: Einstein's Energy Equation
+:A: $$E \ = \ M c \sup{2}
+:B: Energy
+:C: Mass
+:D: Speed of Light
+:E: Squared
+:A: at: 198,0
+jref:F: E
+jref:G: M
+jref:H: \sup{2}
+jref:I: c
+:B: at: 147,24
+:C: at: 226,41
+:D: at: 330,37
+:E: at: 335,9
+link: B F -->
+link: C G -->
+link: D I -->
+link: E H -->
+:B:F:
+card:
+## E - Energy
+E is Energy, measured in kilo Joules (kJ). 
+* A 180 horse power car engine (that's fairly typical) is producing 132 kJ per second. 
+* Two 130 calorie bags of crisps provides about 1 kJ of energy.
+:C:G:
+card:
+## M - Mass
+Colloquially mass is the same thing as weight, but that is only because we are used to being on Earth. We're used to the almost constant pull of Earth's gravity. 
+
+On the moon a bag of crisps weighs one sixth of what it does on Earth, but it has the same mass wherever it is. The mass measures how hard it is to stop it if it is moving, or start it moving if it is stationary.
+* The mass of a bag of crisps is about 25g
+:D:I:
+card:
+## c - Speed of Light
+The speed of light is 299,792,458 m/s, or about 1,000,000 times the speed of sound in air. This is so much faster than sound that the gap between the flash of lightning and hearing the sound is almost entirely down to the time the sound takes to travel.
+
+If the mass of the crisps in a 25g packet of crisps were completely converted to energy, the energy released would be:
+
+$$ 25 \times 300,000,000 \times 300,000,000$$
+$$E = 2,250,000,000,000,000 \ kJ$$
+
+:E:H:
+card:
+## c is Squared
+In this equation for energy, the speed of light is squared.
+
+The convention is that the superscript $$^2$$ in $$Mc^2$$ only affects the $$c$$, and not the $$M$$. 
+
+ *If* we had wanted it to affect the $$M$$ too, we would have written $$(Mc)^2$$.

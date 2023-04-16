@@ -1,0 +1,204 @@
+!!Scorpio
+##MindMap
+:A: graphic elements
+*:B: Graphs
+**:C: general
+***:D: fonts
+***:E: chemical\nstructures
+***:F: shader\ngraph
+**:G: trees
+***:H: sankey
+***:I: blockly
+****:J: texty\nprograms
+***:K: menus
+***:L: fern\nfrom spore
+***:M: gantt\ndependencies
+***:N: chronogram
+***:O: tabbed\ndialogs
+**:P: lines
+***:Q: snakes
+***:R: chart\nbars
+***:S: labels
+***:T: arrows
+***:U: cables
+*:V: shape modifiers
+**:W: end shapes
+***:X: snake\nhead/tail
+***:Y: serifs
+**:Z: bumps\nand pips
+**:AA: bevel\nand indent
+*:AB: fields
+**:AC: isobars
+**:AD: rulers
+**:AE: NURBS
+**:AF: SDFs
+**:AG: greebling to a field
+***:AH: gradient
+***:AI: dither
+link: * *
+bend: -15
+link: A V
+bend: -20
+caption: Elements of Scorpio diagrams
+:A: at: 332,341
+card:
+##Graphic Elements
+This chart shows the various graphic elements that make up Scorpio Diagrams.
+:B: at: 246,195
+card:
+##Graphs
+The 'labels and links' description of certain diagrams in Scorpio is the same thing as a graph as in "Graph Theory".  These are directed graphs.  The edges have a direction.  The order of items at each node in the graph can be important too.
+:C: at: 142,126
+card:
+##general
+A category to organise some special case kind of graphs.
+:D: at: 106,34
+card:
+##🛸fonts (not yet)
+I'm planning font like shapes built out of 'labels and links'.  For the time being, use labels for text.
+:E: at: 46,75
+card:
+##chemical structures
+These use [SMILES](#smiles) format to represent the molecules.
+> I have a SMILES to connections method.<br><br>🚀I plan to add an automatic layout method, using the connections as constraints.
+:F: at: 30,147
+card:
+##🚀shader graph (not yet)
+I plan to add a new kind of link style that is better suited to nodes in a shader graph.
+Also the controls of each node will reside in the card panel, when we are zoomed out on the nodes.
+:G: at: 510,124
+card:
+##trees
+I build 'things connected to things' around a spanning tree for the items, so doing an ordinary tree as a special case is natural.
+ #More(#scorpio_connections)
+:H: at: 558,189
+card:
+##sankey
+Sankey diagrams are mainly distinguished from trees by having varying widths for the lines.  That is supported by having a 'size' for each node that can be varied using 'size:'.  Further enhancements are planned.
+:I: at: 482,213
+card:
+##🚀blockly (not yet)
+Blocks that 'click together' are just one style of presentation of a tree.  The shape system supports complex shapes for labels, and I will include the block shapes presently.
+ #More(#scorpio_blocks)
+:J: at: 372,257
+card:
+##🚀texty programs (not yet)
+If you take a blockly-style program and fade out the block backgrounds, you have a normal texty program.  To support this well entails handling large numbers of lines and editability.
+:K: at: 492,34
+card:
+##🚀menus (not yet)
+Menus are just a presentation of a tree.  
+:L: at: 568,32
+card:
+##🛸fern from spore (not yet)
+A plan to style trees in a more plant like way, and to use them for example for structured to-do lists.  
+:M: at: 636,78
+card:
+##🚀gantt dependencies (not yet)
+I plan to make labels into the bars of a Gantt chart, and use links for the dependencies.
+:N: at: 404,51
+card:
+##🚀chronogram (not yet)
+Also *spindle chart*
+A chronogram is like a Gantt chart.  The spindle chart requires 'plotting' of graphs along the chronogram bars.  Features such as a timeline that can be zoomed into will arrive after I bring in charting functionality for bar graphs and line plots.
+ #More(#scorpio_charts)
+:O: at: 414,194
+card:
+##🛸tabbed dialogs (not yet)
+Tabbed dialogs are a form of tree.  I may eventually support full user interface in the canvas, but I am expecting that to be a long way down the road.  Instead look to Scorpio Wiki features rather than Scorpio Diagrams.  Scorpio Wiki generates html, and the wiki and diagrams code will share elements of the little languages.
+:P: at: 216,91
+card:
+##lines
+Scorpio has various options for styling of lines connecting two labels, including:
+> -- A single line<br> == A double line<br> ~~ A wiggly line
+Scorpio also has options for colouring and varying the width.
+ #More(#scorpio_link_styles)
+:Q: at: 318,82
+card:
+##🛸snakes (not yet)
+An advanced line style that allows for placement of hotpots for information along the body of the snake, animation and programmed positioning.
+:R: at: 158,39
+card:
+##🚀chart bars (not yet)
+All the styles for labels can be used with bar charts, using the same syntax.
+ #More(#scorpio_labels)
+:S: at: 300,142
+card:
+##labels
+Labels have mix-and-match end styles and colouring options.
+ #More(#scorpio_labels)
+:T: at: 220,32
+card:
+##arrows
+Labels can be turned into arrows by choice of their end styles.
+ #More(#scorpio_labels)
+:U: at: 290,29
+card:
+##🚀cables (not yet)
+Cables are a visual device for indicating a connection which has a lot of information flowing along it.
+Additionally any tilable image can be made into a cable, that bends, curves, widens and narrows according to the shape of a connection.
+:V: at: 613,347
+card:
+##shape modifiers
+The basic shapes can be modified by adding end shapes.
+:W: at: 634,230
+card:
+##end shapes
+The most common end shapes are:
+> ( for round ends<br> [ for flat ends<br> < for chevron ends
+ #More(#scorpio_labels)
+:X: at: 622,165
+card:
+##🛸snake head/tail (not yet)
+A special pair of end shapes for use in snakes.  A PoC is  included.  I plan to use the snake as a test case for animation features and complex coloured shapes.
+ #More(#scorpio_labels)
+:Y: at: 672,305
+card:
+##🛸serifs (not yet)
+Serifs will be implemented in a similar way to end shapes.  Scorpio will be able to 'thicken up' skeleton letters, and put serifs at key junctures.
+:Z: at: 462,285
+card:
+##🚀bumps/pips
+Bumps and pips are shape modifiers required for implementing Blockly like tiles.
+:AA: at: 550,258
+card:
+##bevel and indent
+Styling for labels. The indented style is often used to indicate 'something missing'. It's available via the 'cloze:' instruction.
+
+Indent styling will be used for input fields, for indicating auto completion, and for indicating parse errors of the 'something specific missing' kind.
+:AB: at: 166,260
+card:
+##🚀fields
+Fields provide field lines.  They depend on a function defined at every point (x,y).  Scorpio can draw lines and arrows that show the field and can also use shading and colour to show the field.  One kind of field is an SDF.
+:AC: at: 40,215
+card:
+##🚀isobars
+This way of showing a field shows lines at regular 'contour' levels of a field.  An optional method allows dynamic adjustment of the spacing based on how close the lines are together.
+:AD: at: 38,282
+card:
+##🚀rulers
+Rulers are zoomable, and they smoothly update with fade-in and with the size changing of the markings.  The identical protocol is used for zooming on isobars as they are in fact 'the same kind of thing'.
+The kind of marker used for a ruler is configurable.
+Rulers don't have to be straight.  A circular ruler is a protractor, a clock dial, a compass rose, depending on styling details.
+:AE: at: 130,183
+card:
+##🚀NURBs
+I have a simple 2D NURB system currently based on texture mapping textures to a cubic x linear patch.  This is just right for texturing bendable varying thickness lines.
+I've implemented for a 2D canvas, using javascript, which is slow indeed compared to GPU.  I may convert to a 3D canvas and shaders to get speed.
+:AF: at: 28,351
+card:
+##🚀SDFs
+Signed Distance Fields are a technique used in drawing fonts.  Scorpio has limited support for them.  The support is based on NURBs.  I plan not to be strictly SDF but rather to use pseudo distances which are quicker to compute and still do what is required for collision detection and similar.
+:AG: at: 180,307
+card:
+##🛸greebling to a field
+Field values can be used to specify strength of dither, crosshatching, closeness of dot spacing and more advanced procedurally generated infilling.  These will generally be applied to a NURB patch.
+:AH: at: 108,363
+card:
+##gradient
+Scorpio supports simple colour gradients.  The defualt colour gradient is based on 'level' in the tree.  It is used in the 'rainbow' colouring for links from label to label in some styles.
+:AI: at: 178,371
+card:
+##🚀dither (not yet)
+Floyd Steinberg is the classic kind of dither.  Scorpio will go somewhat further by generalising the idea to greebling.
+

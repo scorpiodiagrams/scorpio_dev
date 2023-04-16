@@ -1,0 +1,4 @@
+!!Scorpio
+##Molecule
+caption: Malate
+compound: O=C(O)CC(O)C(=O)O

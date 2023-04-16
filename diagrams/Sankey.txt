@@ -1,0 +1,52 @@
+!!Scorpio
+##Sankey
+caption: Exampler
+**:A: Condenser
+**:B: Work
+**:C: P1
+*:D: Economiser
+*:E: Steam Pipe
+:F: P2
+:G: :Height3:[Feed Pump]
+:H: P3
+:I: Fire Grate
+:A: at: 562,326
+size: 30
+:B: at: 660,90
+size: 10
+:C: at: 536,192
+size: 3
+:D: at: 51,92
+size: 15
+:E: at: 319,120
+size: 40
+:F: at: 514,316
+size: 3
+:G: at: 154,352
+size: 3
+:H: at: 40,312
+size: 3
+:I: at: 172,324
+size: 45
+background: JIE_Sankey_V5_Fig1.png
+link: D E
+bend: 30
+link: I D [--)
+bend: -20
+link: I E [--)
+bend: 50
+link: E A (--=>
+bend: 50
+link: E B (--=>
+bend: 20
+link: E C
+bend: 30
+link: C F
+bend: 50
+link: F G
+bend: 0
+link: G H
+bend: 20
+link: H D
+bend: 30
+

@@ -1,0 +1,241 @@
+!!Scorpio
+##MindMap
+caption: Rocket Propellants
+*:A: 🚀Rocket\nFuel
+**:B: Hypergolic\nslug
+***:C: Diethyl Zinc
+***:D: Xylidines
+***:E: Amines
+****:F: Tertiary Amines
+*****:G: UDMH
+****:H: Aromatic Amines
+***:I: Furfuryl Alcohol
+***:J: Visols
+***:K: Hydrazine Hydrate
+***:L: "Turpentine\n(with mixed acid)"
+***:M: Butyl Mercaptans
+***:N: Chlorine Trifluoride
+**:O: Bulk Fuel
+***:P: Gasoline
+***:Q: Liquid + Powder\nSlurries
+****:R: Gasoline +\nAluminium
+****:S: Benzene +\nLampblack
+***:T: Toluene
+***:U: Liquid Hydrogen
+***:V: Liquid Methane
+**:W: Monopropellants
+***:X: Nitroglycerine!
+***:Y: Nitromethane
+***:Z: Ethylene Oxide
+**:AA: Oxidisers
+***:AB: LOX
+***:AC: Ozone!
+***:AD: N2O5!!
+***:AE: Fluorine!!
+***:AF: 80% Hydrogen Peroxide
+***:AG: Fuming Nitric Acid
+***:AH: Nitrogen Tetroxide
+**:AI: Additives
+***:AJ: Chromium Trioxide
+***:AK: "HF (corrosion)"
+***:AL: "Silica (thixotropics)"
+magnify: 100
+rotate: 0
+:A: at: 270,199
+:B: at: 463,293
+:C: at: 385,370
+:D: at: 373,333
+:E: at: 470,236
+:F: at: 552,204
+:G: at: 602,167
+:H: at: 404,199
+:I: at: 480,339
+:J: at: 364,297
+:K: at: 518,372
+:L: at: 592,257
+:M: at: 612,342
+:N: at: 621,304
+:O: at: 166,168
+:P: at: 190,49
+:Q: at: 85,85
+:R: at: 58,140
+:S: at: 64,192
+:T: at: 83,45
+:U: at: 269,20
+:V: at: 132,14
+:W: at: 480,161
+:X: at: 616,101
+:Y: at: 592,134
+:Z: at: 572,69
+:AA: at: 159,248
+:AB: at: 141,339
+:AC: at: 42,276
+:AD: at: 89,372
+:AE: at: 65,329
+:AF: at: 221,374
+:AG: at: 241,341
+:AH: at: 261,303
+:AI: at: 284,83
+:AJ: at: 433,41
+:AK: at: 406,81
+:AL: at: 378,117
+link: * *
+bend: -20
+:A:
+card:
+##Propellants
+ placeholder...
+:B:
+card:
+##Hypergolic slug
+ placeholder...
+:C:
+card:
+##Diethyl Zinc
+ placeholder...
+:D:
+card:
+##Xylidines
+ placeholder...
+:E:
+card:
+##Amines
+ placeholder...
+:F:
+card:
+##Tertiary Amines
+ placeholder...
+:G:
+card:
+##UDMH
+Unsymmetrical Dimethyl Hydrazine
+A 60-40 UDMH-MMH eutectic mixture freezes at —80°C.  Being liquid at low temperatures is relevant to the utility of a propellant.
+:H:
+card:
+##Aromatic Amines
+ placeholder...
+:I:
+card:
+##Furfuryl Alcohol
+ placeholder...
+:J:
+card:
+##Visols
+ placeholder...
+:K:
+card:
+##Hydrazine Hydrate
+ placeholder...
+:L:
+card:
+##Turpentine
+###(with mixed acid)
+ placeholder...
+:M:
+card:
+##Butyl Mercaptans
+ placeholder...
+:N:
+card:
+##Chlorine Trifluoride
+:O:
+card:
+##Bulk Fuel
+ placeholder...
+:P:
+card:
+##Gasoline
+ placeholder...
+:Q:
+card:
+##Liquid + Powder
+###Slurries
+ placeholder...
+:R:
+card:
+##Gasoline + Aluminium
+ placeholder...
+:S:
+card:
+##Benzene + Lampblack
+An unsuccessful idea of adding charcoal to Benzene fuel so as to increase the power density.
+:T:
+card:
+##Toluene
+ placeholder...
+:U:
+card:
+##Liquid Hydrogen
+ placeholder...
+:V:
+card:
+##Liquid Methane
+ placeholder...
+:W:
+card:
+##Monopropellants
+ placeholder...
+:X:
+card:
+##Nitroglycerine!
+ placeholder...
+:Y:
+card:
+##Nitromethane
+ placeholder...
+:Z:
+card:
+##Ethylene Oxide
+ placeholder...
+:AA:
+card:
+##Oxidisers
+ placeholder...
+:AB:
+##LOX
+:AC:
+card:
+##Ozone!
+ placeholder...
+:AD:
+card:
+##N2O5!!
+ placeholder...
+:AE:
+card:
+##Fluorine!!
+ placeholder...
+:AF:
+card:
+##80% Hydrogen Peroxide
+Used in early rockets such as the V2.
+(98% H<sub>2</sub>O<sub>2</sub> is now available.  It wasn't then)
+:AG:
+card:
+##Fuming Nitric Acid
+20% N<sub>2</sub>O<sub>2</sub> 
+:AH:
+card:
+##Nitrogen Tetroxide
+ placeholder...
+:AI:
+card:
+##Additives
+Because of high flow rates, catalysts and improvers need to be in the actual fuel itself. Above a certain percentage it becomes moot whether an 'additive' is an improver or actually part of the bulk fuel.
+:AJ:
+card:
+##Chromium Trioxide
+To improve combustion of Nitromethane (monopropellant)
+:AK:
+card:
+##HF
+Small amounts of Hydrogen Fluoride decreases corrosion in some kinds of metal tank and increases it in others.
+:AL:
+card:
+##Silica
+Silica can make some fuels thixotropic, so that they only flow when pressure is applied.  This makes the fuel safer to work with.
+Powdered metals can have the same effect and also, because of the high temperatures reached, be part of the fuel.
+:end:
+link: * *
+bend: -20
+caption: Rocket Propellants

@@ -1,0 +1,66 @@
+__NOTOC__
+
+{{ATK_Header}}
+
+This is the spec for the interactive diagram which shows a map of
+Cambridge.  Here is the result in wiki:
+
+-----
+{{#widget:WikiDiagram|page=Map|init=yes}}
+-----
+
+The detailed data for the regions, buttons and cards follows.
+
+<pre>START</pre>
+
+<pre>ADD:DATA=
+[
+    {
+    "Ruler":"XRuler",
+    "margins":3,
+    "sizeAs":0.05,
+    "zoomSets":"YRuler",
+    "minScale":0.3,
+    "maxScale":3,
+    "atStart":710,
+    "atEnd":1550
+    },
+
+    {"HStack":[
+
+        {
+        "Image":"Image",
+        "src":"Cambridge.png",
+        "hScaling":"XRuler",
+        "vScaling":"YRuler",
+         "clickDo":["setClickAsCentre","XRuler","setClickAsCentre","YRuler"],
+         "zoomDo":["zoom","XRuler","zoom","YRuler"]
+        },
+        {"Transform":[
+            {
+            "Ruler":"YRuler",
+            "margins":3,
+            "flip":6,
+            "zoomSets":"XRuler",
+            "minScale":0.3,
+            "maxScale":3,
+            "atStart":180,
+            "atEnd":650
+            }],
+          "transOp":6,
+          "sizeAs":0.035
+        }
+        ]
+        }
+]
+</pre>
+
+
+<pre>CREDITS:CAPTION=Mousewheel Zoomable Map of Cambridge;TIP=</pre>
+<h3>Instructions</h3>
+<ul>
+<li>Click and drag to move around.
+<li>Use mouse wheel to zoom
+</ul><br><br>
+<b>Credits:</b> <em>Image Credit - Open Street Maps</em>
+

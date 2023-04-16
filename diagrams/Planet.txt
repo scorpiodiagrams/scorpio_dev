@@ -1,0 +1,34 @@
+__NOTOC__
+
+{{ATK_Header}}
+
+This is the spec for the interactive diagram which shows a planet.
+Here is the result in wiki:
+
+-----
+{{#widget:WikiDiagram|page=Planet|init=yes}}
+-----
+
+The detailed data for the regions, buttons and cards follows.
+
+<pre>START</pre>
+
+<pre>ADD:DATA=
+[
+    {
+    "Image":"Image",
+    "src":"Cambridge.png",
+    "spherical":true
+    }
+]
+</pre>
+
+
+<pre>CREDITS:CAPTION=Distortable Planet;TIP=</pre>
+<h3>Instructions</h3>
+<ul>
+<li>Click and drag to move around.
+<li>Use mouse wheel to zoom
+</ul><br><br>
+<b>Credits:</b> <em>Image Credit - Open Street Maps</em>
+

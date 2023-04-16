@@ -1,0 +1,51 @@
+##MindMap
+caption: Rocket Fuel Additives
+boxed: 105
+*:A: 🚀Rocket\nFuel
+**:B: Additives
+***:C: Chromium Trioxide
+***:D: "HF (corrosion)"
+***:E: "Silica (thixotropics)"
+magnify: 100
+rotate: 0
+:A: at: 127,42
+:B: at: 242,51
+:C: at: 357,12
+:D: at: 404,47
+:E: at: 382,91
+link: * *
+bend: 30
+link: B C
+bend: -20
+link: B D
+bend: -20
+link: B E
+bend: -20
+:A:
+card:
+## 🚀Propellants
+Rocket fuel needs to store considerable energy with low mass. Additives can:
+* Make it safer to handle
+* Make it burn more cleanly
+* Reduce corrosion of the fuel tanks 
+:B:
+card:
+## Additives
+Because of high flow rates, catalysts and improvers need to be in the actual fuel itself. 
+
+Above a certain percentage it becomes moot whether an 'additive' is an improver or actually part of the bulk fuel.
+:C:
+card:
+## Chromium Trioxide
+To improve combustion of Nitromethane (monopropellant)
+:D:
+card:
+## HF
+Small amounts of Hydrogen Fluoride decreases corrosion in some kinds of metal tank - and increases it in others.
+:E:
+card:
+## Silica
+Silica can make some fuels thixotropic, so that they only flow when pressure is applied.  This makes the fuel safer to work with.
+Powdered metals can have the same effect and also, because of the high temperatures reached, be part of the fuel.
+
+

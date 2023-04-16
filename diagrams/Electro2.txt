@@ -1,0 +1,27 @@
+##Annotated
+caption: Connections
+bounding_boxes: 
+:A: $$\twisty ijkl..m-i..jklm-p..qrst-pqrs..t
+:B: $$\twisty .jilk.-.-.ijkl.-.ijkl.
+:C: $$\twisty ijkl..m-i..jklm-.j....-....l.
+:D: $$ \slash twisty \ ijkl..m-i..jklm-j...-...l \ = \ { \rot270{j \  . \\  . \\ .}  \stack{ {i \ j \ k \ l \ . \\ . \ m }\twisty-spacing 14\twisty ijkl..m-i..jklm-.j....-....l. {i \ . \\ . \ j \ k \ l \  m } } { \rot270{ \  . \\  . \\ . \ l}
+:E: $$\twisty ..ijklm-.-..ijklm-.
+:F: $$\slash twisty \ imjkl \ = \ \twisty imjkl
+:G: $$\slash twisty \ -imjkl \ = \ \twisty -imjkl
+:H: $$\slash twisty \ -imj.kl \ = \ \twisty -imj.kl
+:I: $$\slash twisty \ --imjkl \ = \ \twisty --imjkl
+:J: $$\slash twisty \ i(mjk)l \ = \ \twisty i(mjk)l
+:K: $$\stack{ \resistor \transistor \capacitor \battery}
+:L: $$ \twisty-spacing 48 \stack { { \twisty [i.jk.l]-i.jk.l}{\flip \resistor \twisty .\flip\resistor \flip \resistor \twisty .\flip \resistor}{\twisty i--.-i\capacitor \twisty i--i-. \twisty i--.-i \capacitor \twisty i--i-.}{\fliph \transistor \twisty ji-...-i-j  \transistor} \twisty i....k-[i....k]}
+:A: at: 609,187
+:B: at: 556,287
+:C: at: 530,210
+:D: at: 44,239
+:E: at: 616,272
+:F: at: 472,15
+:G: at: 472,39
+:H: at: 467,64
+:I: at: 487,114
+:J: at: 466,89
+:K: at: 59,6
+:L: at: 162,7

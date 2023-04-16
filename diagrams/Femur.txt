@@ -1,0 +1,42 @@
+!!Scorpio
+##Annotated
+caption: Femur
+:A: Head
+*:B: ""
+:C: Greater\nTrochanter
+*:D: " "
+:E: Lesser\nTrochanter
+*:F: " "
+:G: Condyles
+*:H: " "
+*:I: " "
+:A: at: 78,42
+:B: at: 165,62
+:C: at: 67,148
+:D: at: 190,139
+:E: at: 239,17
+:F: at: 236,104
+:G: at: 646,106
+:H: at: 543,137
+:I: at: 539,88
+background: Gray252.png
+:A:B:
+card:
+##Head
+Large ball of the ball and socket joint of the hip
+:C:D:
+card:
+##Greater Trochanter
+Muscles that abduct the hip attach here.
+:E:F:
+card:
+##Lesser Trochanter
+Muscles that adduct the hip attach here.
+:G:H:I:
+card:
+##Condyles
+Smooth surfaces that make the top part of the hings at the knee.  
+:info:
+card:
+##Femur
+The illustration of the femur is from the 1918 edition of Gray's anatomy, and is in the public domain. 

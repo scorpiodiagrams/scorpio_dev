@@ -1,0 +1,73 @@
+!!Scorpio
+## Molecule
+caption: Melatonin
+:A: C
+:B: C
+:C: O
+:D: N
+:E: C
+:F: C
+:G: C
+:H: C
+:I: N
+:J: C
+:K: C
+:L: C
+:M: C
+:N: O
+:O: C
+:P: C
+:Q: C
+:A: at: 121,177
+:B: at: 168,176
+:C: at: 181,223
+:D: at: 190,130
+:E: at: 238,110
+:F: at: 283,133
+:G: at: 289,181
+:H: at: 253,213
+:I: at: 275,261
+:J: at: 324,246
+:K: at: 324,200
+:L: at: 360,178
+:M: at: 400,204
+:N: at: 435,177
+:O: at: 474,206
+:P: at: 399,243
+:Q: at: 365,269
+link: A B
+multiplicity: 1
+link: B C
+multiplicity: 2
+link: B D
+multiplicity: 1
+link: D E
+multiplicity: 1
+link: E F
+multiplicity: 1
+link: F G
+multiplicity: 1
+link: G H
+multiplicity: 2
+link: H I
+multiplicity: 1
+link: I J
+multiplicity: 1
+link: J K
+multiplicity: 2
+link: K G
+multiplicity: 1
+link: K L
+multiplicity: 1
+link: L M
+multiplicity: 2
+link: M N
+multiplicity: 1
+link: N O
+multiplicity: 1
+link: M P
+multiplicity: 1
+link: P Q
+multiplicity: 2
+link: Q J
+multiplicity: 1

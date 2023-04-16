@@ -1,0 +1,129 @@
+!!Scorpio
+##MindMap
+:A: 🛡Immune\nSystem
+*:B: Innate
+**:C: Inflammation
+**:D: Wounds
+*:E: Adaptive
+**:F: MHC
+**:G: Antibody
+*:H: Blood
+**:I: WBCs
+**:J: RBCs
+**:K: Platelets
+*:L: Lymph
+**:M: Lymph<br>Nodes
+*:N: >'Organs'>
+**:O: Bone<br>Marrow
+**:P: Thymus
+**:Q: Spleen
+**:R: Gut
+***:S: Appendix
+***:T: Tuft<br>Cells
+*:U: (Pathogens)
+**:V: Toxins
+**:W: Viruses
+**:X: Helminths
+*:Y: Barriers
+**:Z: Skin
+**:AA: Mucous
+**:AB: Earwax
+**:AC: Saliva
+caption: Immunology Mind Map
+link: * *
+bend: -15
+:info:
+card:
+###Immunology
+This mind map organises different aspects of immunology, from the pathogens to the distinction between passive and adaptive immune subsystems.  Many of the topics are available as anki deck cards.
+:A: at: 362,202
+card:
+##🛡Immune System
+The immune system is a complex and efficient.  It's important for its role in health.  It responds to damage, viruses, bacteria, toxins that would otherwise cause long term damage to the body. Viruses and bacteria that damage the body need to evade the immune system.  To understand immunity we need to understand both what the immune system is doing and what bacteria and viruses do to evade it.
+:B: at: 490,256
+card:
+##Innate
+:C: at: 538,337
+card:
+##Inflammation
+ The basis of innate immunity is inflammation
+:D: at: 584,230
+card:
+##Wounds
+:E: at: 378,262
+card:
+##Adaptive
+:F: at: 336,373
+card:
+##MHC
+:G: at: 431,341
+card:
+##Antibody
+:H: at: 209,263
+card:
+##Blood
+:I: at: 159,360
+card:
+##WBCs
+:J: at: 234,369
+card:
+##RBCs
+:K: at: 302,305
+card:
+##Platelets
+:L: at: 174,216
+card:
+##Lymph
+:M: at: 78,363
+card:
+##Lymph Nodes
+ Not circulation like blood.
+:N: at: 151,147
+card:
+##'Organs'
+:O: at: 48,296
+card:
+##Bone Marrow
+:P: at: 40,213
+card:
+##Thymus
+ The thymus is the training ground for adaptive immune response.
+:Q: at: 39,92
+card:
+##Spleen
+:R: at: 183,101
+card:
+##Gut
+:S: at: 119,54
+card:
+##Appendix
+:T: at: 211,27
+card:
+##Tuft Cells
+:U: at: 331,135
+card:
+##Pathogens
+:V: at: 264,63
+card:
+##Toxins
+:W: at: 326,37
+card:
+##Viruses
+:X: at: 410,56
+card:
+##Helminths
+:Y: at: 512,86
+card:
+##Barriers
+:Z: at: 479,30
+card:
+##Skin
+:AA: at: 593,40
+card:
+##Mucous
+:AB: at: 631,113
+card:
+##Earwax
+:AC: at: 535,149
+card:
+##Saliva
