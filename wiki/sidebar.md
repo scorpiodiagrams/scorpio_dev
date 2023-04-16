@@ -24,16 +24,19 @@ Bugle-graphs, warpable brushes and braids.)
 Maps, Panning and zooming.)
 ----
 ### Development
-#Jump( wip6 \Rock JaTeX
+#Jump( wip6 \Diamond JaTeX
 # \Rock Development6
 JaTeX development.)
 #Jump( wip7 \Rock Polyglot
 # \Rock Development7
 Polyglot development. Experiments with a new Markdown parser.)
+#Jump( musings \Pen Musings
+# \Pen Musings
+Reflections on the purpose and direction)
 ----
 ### Dev Pages
-#Jump( dev_docs \Rock WIP 
-# \Rock WIP Features 
+#Jump( dev_docs \Pen WIP 
+# \Pen WIP Features 
 This document is pre-release documentation for the new JaTeX features which are still in the process of being written.)
 #Jump( dev_mindmap \Pen Mindmaps!
 # \Pen Mindmaps
@@ -55,11 +58,11 @@ Blocks for programming, like the ones used in Scratch, SNAP and Blockly. )
 Experiements with hover-annotation of various images.)
 ----
 ### Repos
-#Jump( centaurs;front_page \Rock Centaurs
-# \Rock Centaurs Repo
+#Jump( centaurs;front_page \Diamond Centaurs
+# \Diamond Centaurs Repo
 A dangerous future with human-AI combinations. The Center for Safer Centaurs, working to rescue the future.)
-#Jump( datascience;autoencoder \Rock Datascience
-# \UFO Datascience Repo
+#Jump( datascience;autoencoder \Diamond Datascience
+# \Diamond Datascience Repo
 Datascience explainers - relating machine learning to statistics, optimisation, classical mechanics and coding theory.)
 #Jump( sicm;preface \Diamond SICM
 # \Diamond SICM - The Book
@@ -72,11 +75,11 @@ Functional Differential Geometry, adapted from Gerald Sussman's book)
 #Jump( scorpio_docs;scorpio_diagrams \Diamond Scorpio Docs
 # \Diamond Scorpio Diagrams Repo
 Beginnings of documentation on the Scorpio diagram features)
-#Jump( scorpio_dev;dev_docs \Rock Scorpio Dev
-# \Rock Scorpio Development
+#Jump( scorpio_dev;dev_docs \Diamond Scorpio Dev
+# \Diamond Scorpio Development
 This repo. New features under development)
-#Jump( scorpio_wiki;index \Rock Scorpio Wiki
-# \Rock Scorpio Wiki Repo
+#Jump( scorpio_wiki;index \Diamond Scorpio Wiki
+# \Diamond Scorpio Wiki Repo
 Documentation of the Scorpio Wiki. Scorpio Wiki formats text into web pages. Scorpio Wiki uses Markdown with extensions)
 #Jump( slush;index \Slush Slush
 # \Slush Slush Repo
