@@ -64,7 +64,7 @@ A dangerous future with human-AI combinations. The Center for Safer Centaurs, wo
 #Jump( datascience;autoencoder \Diamond Datascience
 # \Diamond Datascience Repo
 Datascience explainers - relating machine learning to statistics, optimisation, classical mechanics and coding theory.)
-#Jump( sicm;preface \Diamond SICM
+#Jump( sicm;preface \Diamond SICM Book
 # \Diamond SICM - The Book
 Structure and Interpretaion of Classical Mechanics.
 Book by *Gerald Jay Sussman and Jack Wisdom*
@@ -78,12 +78,9 @@ Beginnings of documentation on the Scorpio diagram features)
 #Jump( scorpio_dev;dev_docs \Diamond Scorpio Dev
 # \Diamond Scorpio Development
 This repo. New features under development)
-#Jump( scorpio_wiki;index \Diamond Scorpio Wiki
-# \Diamond Scorpio Wiki Repo
-Documentation of the Scorpio Wiki. Scorpio Wiki formats text into web pages. Scorpio Wiki uses Markdown with extensions)
 #Jump( slush;index \Slush Slush
 # \Slush Slush Repo
-Slush pile. All that text and those diagrams that are on the way out. Only available in offline content-development mode.)
+Slush pile. All that text and those diagrams that are on the way out. This link is not available on-line. Only available in offline content-development mode.)
 
 
 
