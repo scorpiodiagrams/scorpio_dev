@@ -1,5 +1,7 @@
-## More Documentation
 ~~~Polyglot
+## More Development
+Welcome to some higgledy-piggeldy pages about work in progress on Scorpio Diagrams.
+
 
 ### Mini Graphs
 The `\graph` command, also `\half-graph` and `\quarter-graph` for narrower versions, draws small graphs. You specify y values for x=0 and x=1 and also slopes after the command. You can string a number of these together to make a longer graph. The slopes are usually given using `/`, `\ ` and `=` for +1, -1 and 0 slopes. For example `\graph 1\1/` is 1 at 0 and 1, dips down then rises. 

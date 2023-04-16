@@ -1,6 +1,6 @@
 # Work in Progress II
 
-!!Markdown
+!!Polyglot
 ###Bonus: Horizontal Stacking
 ####for use with [line styles](scorpio_link_styles)<br><br>
 #UFO(I am working on a system for 'arithmetic' with end shapes.  I'm still working on the ideas of how it will work.)
@@ -16,7 +16,7 @@ You can create some decorative effects using the stacking.  The decorative effec
 :A: >>>--Arrow with 3x feathers and blunt end--]]
 boxed: plain
 :A: at: 200,27
-!!Markdown
+!!Polyglot
 ####dots
 The next example shows an additional end shape #Code(.), which can also be obtained using #Code(:dot:).  I provided it mostly for use with horizontal stacking.
 !!Raw
@@ -26,7 +26,7 @@ The next example shows an additional end shape #Code(.), which can also be obtai
 :A: <.....>--Dots!--].].].].]
 boxed: plain
 :A: at: 200,27
-!!Markdown
+!!Polyglot
 ####overprinting
 The next example is a bit ridiculous and of no practical use.  I'm using vertical and horizontal stacking and overprinting of rather a lot of end shapes, and two of the special end shapes for snakes.
 !!Raw
