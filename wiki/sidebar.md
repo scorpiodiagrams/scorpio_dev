@@ -27,8 +27,8 @@ Maps, Panning and zooming.)
 #Jump( wip6 \Diamond JaTeX
 # \Rock Development6
 JaTeX development.)
-#Jump( wip7 \Rock Polyglot
-# \Rock Development7
+#Jump( wip7 \Diamond Polyglot
+# \Diamond Development7
 Polyglot development. Experiments with a new Markdown parser.)
 #Jump( musings \Pen Musings
 # \Pen Musings
@@ -61,15 +61,15 @@ Experiements with hover-annotation of various images.)
 #Jump( centaurs;front_page \Diamond Centaurs
 # \Diamond Centaurs Repo
 A dangerous future with human-AI combinations. The Center for Safer Centaurs, working to rescue the future.)
-#Jump( datascience;autoencoder \Diamond Datascience
+#Jump( datascience;shake_the_box \Diamond Datascience
 # \Diamond Datascience Repo
 Datascience explainers - relating machine learning to statistics, optimisation, classical mechanics and coding theory.)
-#Jump( sicm;preface \Diamond SICM Book
+#Jump( sicm;chapter001 \Diamond SICM Book
 # \Diamond SICM - The Book
 Structure and Interpretaion of Classical Mechanics.
 Book by *Gerald Jay Sussman and Jack Wisdom*
 )
-#Jump( fdg;preface \Diamond FDG Book
+#Jump( fdg;chapter001 \Diamond FDG Book
 # \Diamond FDG Book
 Functional Differential Geometry, adapted from Gerald Sussman's book)
 #Jump( scorpio_docs;scorpio_diagrams \Diamond Scorpio Docs
@@ -78,7 +78,7 @@ Beginnings of documentation on the Scorpio diagram features)
 #Jump( scorpio_dev;dev_docs \Diamond Scorpio Dev
 # \Diamond Scorpio Development
 This repo. New features under development)
-#Jump( slush;index \Slush Slush
+#Jump( slush;water \Slush Slush
 # \Slush Slush Repo
 Slush pile. All that text and those diagrams that are on the way out. This link is not available on-line. Only available in offline content-development mode.)
 

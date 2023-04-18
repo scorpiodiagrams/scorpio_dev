@@ -1,6 +1,5 @@
 ## Work in Progress Annotations
 
-
 ## Annotated
 The next demo shows that you can take an existing image and mark it up with annotations. For maths such as this example this has very largely been obsoleted by the JaTeX system, as you can now create LaTeX on the canvas, and then have #Code(jref)s that link to them.
 
