@@ -38,6 +38,9 @@ Reflections on the purpose and direction)
 #Jump( dev_docs \Pen WIP 
 # \Pen WIP Features 
 This document is pre-release documentation for the new JaTeX features which are still in the process of being written.)
+#Jump( wip_links \Pen Link Styles
+# \Pen Link Styles
+Work in progress on improved links)
 #Jump( dev_mindmap \Pen Mindmaps!
 # \Pen Mindmaps
 Four more mind map guides)
