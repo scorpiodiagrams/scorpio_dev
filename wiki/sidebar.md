@@ -33,6 +33,9 @@ Polyglot development. Experiments with a new Markdown parser.)
 #Jump( musings \Pen Musings
 # \Pen Musings
 Reflections on the purpose and direction)
+#Jump( design_guide \Pen Design Guide
+# \Pen Design Guide
+Principles used to guide the design)
 ----
 ### Dev Pages
 #Jump( dev_docs \Pen WIP 
