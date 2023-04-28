@@ -1,4 +1,4 @@
-#Scorpio Diagrams Documentation
+# Scorpio Diagrams Documentation
 
 The documentation for Scorpio Diagrams and wiki software
 
