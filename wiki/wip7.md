@@ -1,6 +1,6 @@
 # Work in Progress VII
 
-Experiments with a new Markdown processor. This processor, Polyglot, tokenises the text and then processes token by token, the same design as for JaTeX. This is in contrast my previous scheme, which used a lot of hacked together regexs. The previous scheme could not handle brackets well.
+Experiments with a new Markdown processor. This processor, Polyglot, tokenises the text and then processes token by token, the same design as for JaTeX. This is in contrast to my previous scheme, which used a lot of hacked together regexs. The previous scheme could not handle brackets well.
 
 Polyglot doesn't use the zim-style markdown I used to use, but uses Obsidian style instead. Obsidian is mainstream markdown (with extensions) and is compatible with more tools than zim is. In particular, obsidian-style is close to GitHub's markdown style. My intent is that raw markdown docs can be stored at GitHub and can be read there, despite the extensions I make. Often polyglot extensions are named like #SomeFuntion(), which markdown just shows as-is.
 
@@ -10,9 +10,11 @@ GeSHi islands are explored/tested on this page, along with other test cases that
 ## Polyglot
 Between the two horizontal rules we are in polyglot. This text should be very readable in Obsidian. The markup should be compatible.
 
-#CommandList
+#Action( Foo, RR.Alert, "Bagels"  )
 
-#JatexList
+> [!cinfo]+ *Centred drop down*
+## Something
+There is something in the drop down)
 
  /δ/ function, [454](chapter006!p454) (ex. [6.12](chapter006!exercise_6.12) )
  /δ_{η}/ (variation operator), [26](chapter001!p26)
@@ -84,6 +86,11 @@ function jack( a b c ){
   return "abcdef";
 }
 ```
+
+#CommandList
+
+#JatexList
+
 ----
 !!Markdown
 
