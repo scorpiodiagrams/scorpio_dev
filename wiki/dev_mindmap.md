@@ -14,12 +14,15 @@ Mainly showing the different mathematical machinery required.
 # Ignition
 !!Markdown
 ## Decorated Mind Map
-I plan in time to use ML to decorate mind maps. The image below is a pretty hideous mash up created using image2image from stable diffusion on one of the mind maps. It is nowhere near good enough to be useful, but it is indicative of how ML can customise and transform an image. Imagine something much prettier and more customisable. I'm thinking a three stage process:
+I plan in time to use ML to decorate mind maps. The images below are indicative of how ML can customise and transform an image. Imagine something with readable labels, much prettier and more customisable. 
 
-* Define the look of parts, such as the head, the arms, the decorations.
-* Procedurally generate a version using those parts.
-* Use Image2Image and a 
+I'm thinking a three stage process:
 
-!+[Decorated MindMap](./images/AlienOctopus.png)
+* Define the look of parts, such as the head, the arms, the decorations, fonts and font-related graphics.
+* Procedurally generate a not very organic version that fits the shape of the mind map, using those parts.
+* Use Image2Image and a well chosen prompt to make the image more organic.
+!!Polyglot
+!+[[./images/AlienOctopus.png |516]]
+!+[[./images/AlienOctopus2.png]] !+[[./images/AlienStarfish.png]]
 
  #Button(index,Index) - Index
