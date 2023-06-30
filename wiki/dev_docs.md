@@ -2,19 +2,18 @@
 ## More Development
 Welcome to some higgledy-piggeldy pages about work in progress on Scorpio Diagrams.
 
-
 ### Mini Graphs
 The `\graph` command, also `\half-graph` and `\quarter-graph` for narrower versions, draws small graphs. You specify y values for x=0 and x=1 and also slopes after the command. You can string a number of these together to make a longer graph. The slopes are usually given using `/`, `\ ` and `=` for +1, -1 and 0 slopes. For example `\graph 1\1/` is 1 at 0 and 1, dips down then rises. 
+
 
 > [!info]- Extended Syntax for \graph
 You can instead use a slightly different syntax and separate the various components with a `:`. With that syntax you can use numbers for the slopes rather than the symbols. That's the way to get slopes other than +1, -1 and 0. `\graph 0.5:0.1:0.5:-0.1` is a graph at height 0.5 with a very slight rise in the middle.
 
 The `\graph` command can give many more points on the curve. `\graph 0.5/0.5\0.5/0.5\0.5/0.5\0.5/0.5\` is an undulating graph at an average value of 0.5.
 )
-
 > [!info]- \UFO Future plans for \graph
-> There's a much extended syntax in the works that gives more what you'd expect from a plotting library. It's not high priority because there are already good tools for doing graphs.)
-
+> There's a much extended syntax in the works that gives more what you'd expect from a plotting library. It's not high priority because there are already good tools for doing graphs.
+)
 The mini graphs are for very quick illustrations, such as ReLU, a cumulative distribution, Hermite polynomials in blending, illustration of square wave, triangular wave, sine wave, and so on.
 
 ~~~Scorpio
@@ -61,8 +60,8 @@ bounding_boxes:
 :S: at: 120,317
 link: K J
 link: P O
-~~~Polyglot
 
+~~~Polyglot
 ### Twisty
 The JaTeX command `\twisty` was originally designed just for Penrose notation. It shows how the order of items, indices for a tensor, is to change between its top and bottom edge. It can also draw the flat and squiggly lines needed to show symmetrisation and antisymmetrisation of tensors.
 
@@ -72,8 +71,8 @@ Another extension to `twisty` is the option to use a `.` for an absent connectio
 
 ~~~Scorpio
 # Electro2
-~~~Polyglot
 
+~~~Polyglot
 ### Grids
 These are common in data science diagrams. `\grid` is followed by a sequence of letters such as `rgb,www`, which is specifying two rows, the first row with red, green and blue boxes and the second with three white boxes. 
 
@@ -92,10 +91,11 @@ caption: Using \grid
 :C: at: 89,75
 :D: at: 38,179
 :E: at: 112,203
-~~~Polyglot
 
+~~~Polyglot
 ### Repetition
 `\mul` repeats the next thing up to 20 times.
+
 ~~~Scorpio
 ##Annotated
 caption: Using \mul
@@ -120,10 +120,11 @@ bounding_boxes:
 :H: at: 490,121
 :I: at: 363,175
 :J: at: 462,96
-~~~Polyglot
 
+~~~Polyglot
 ### Transforms
 These commands: `\flip`, `\fliph`, `\flipv`, `\flipminor`, `\rot90`, `\rot180`, `\rot270` and `\identity` will change the orientation of the next item - and for the flips there is a mirroring.
+
 ~~~Scorpio
 ##MindMap
 caption: Using \flip
@@ -132,8 +133,8 @@ bounding_boxes:
 :B: $$\fliph FLIPH - \flip FLIP - \flipv FLIPV - \flipminor FLIPMINOR
 :A: at: 93,46
 :B: at: 93,140
-~~~Polyglot
 
+~~~Polyglot
 ### Rulers
 `\ruler` is a widget that can be zoomed continuously. Well, it \Boat could be. I need to restore that functionality. Here is how it looks.
 
@@ -146,6 +147,5 @@ bounding_boxes:
 :A: at: 76,67
 :B: at: 96,44
 ~~~Markdown
-
 
  #Button(index,Index) - Index
