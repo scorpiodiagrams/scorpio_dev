@@ -79,4 +79,4 @@ Scorpio should be capable of consuming data islands.
 In particular Scorpio should/could handle Obsidian drop downs. Scorpio directives may not be picked up by Obsidian, but their display can still be reasonable.
 
 ### %Footnote(2)
-GitHub should generally display the markdown in an intelligible way. GitHub is more picky about LaTeX and line breaks than it could be, so extra blank lines are needed around some constructs to avoid the allononeline effect.
+GitHub should generally display the markdown in an intelligible way. GitHub is more picky about LaTeX and line breaks than it could be, so extra blank lines are needed around some constructs to avoid the all-on-one-line effect.

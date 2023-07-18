@@ -1,6 +1,6 @@
 #ScorpioHead(27 February 2022, Scorpio Blocks)
 ##Blocks
- * #Rock(This is still aspirational.)*
+ * #Rock(This is still aspirational. There is old code that works to some extent and that needs revitalising.)*
 
 I plan to support a Scratch-like block-based programming interface.  Kids can make interactive games using Scratch.  I don't see why adults shouldn't be able to add interactivity to a diagram by placing click-together blocks. 
 

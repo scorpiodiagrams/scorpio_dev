@@ -8,27 +8,27 @@ I haven't yet implemented a menu.
 ----
 ### Work in Progress
 #Jump( wip \Boat Sphere &amp; Fonts
-# \Boat Development1
+# \Boat Sphere &amp; Fonts
 Sphere wrapping and an experiemntal font system. The sphere wrapping is Google-Earth lite ( very lite indeed#). The font system is about giving fonts a skeleton.)
 #Jump( wip2 \Boat More Labels 
-# \Boat Development2
+# \Boat More Labels
 More label features.)
 #Jump( wip3 \Boat Sub Diagrams 
 # \Boat Sankey &amp; Biochemistry
 Sankey diagram and a subdiagram for biochemistry.)
 #Jump( wip4 \Boat Warpables 
-# \Boat Development4
+# \Boat Warpables
 Bugle-graphs, warpable brushes and braids.)
 #Jump( wip5 \Boat Pan &amp; Zoom
-# \Boat Development5
+# \Boat Pan &amp; Zoom
 Maps, Panning and zooming.)
 ----
 ### Development
 #Jump( wip6 \Diamond JaTeX
-# \Rock Development6
-JaTeX development.)
+# \Rock JaTeX
+JaTeX development. JaTeX is a LaTeX inspired syntax for maths.)
 #Jump( wip7 \Diamond Polyglot
-# \Diamond Development7
+# \Diamond Polyglot Markdown
 Polyglot development. Experiments with a new Markdown parser.)
 #Jump( musings \Pen Musings
 # \Pen Musings

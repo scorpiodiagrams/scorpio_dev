@@ -22,7 +22,7 @@ The greebling though needs something that's not there yet.
 
 The reason to break with the standards is try out new things. I want to try new ideas. I don't want to additionally recreate the full LaTeX stack, or the full Obsidian experience. It's too much work as a solo developer to carefully match every quirk and detail in new software. Instead I implement the pieces I see as essential.
 
-With open source code, I could fork and reuse. But I don't want to fork and adapt the existing libraries either. KaTeX is built around the HTML DOM. I have chosen instead to be built around the HTML Canvas. Typst is in rust. I don't want ot be in rust. I want to be in JavaScript where I can develop faster.
+With open source code, I could fork and reuse. But I don't want to fork and adapt the existing libraries either. KaTeX is built around the HTML DOM. I have chosen instead to be built around the HTML Canvas. Typst is in rust. I don't want to be in rust. I want to be in JavaScript where I can develop faster.
 
 > [!info]- Lifecycle of Re-Implementations
 
