@@ -41,6 +41,9 @@ Principles used to guide the design)
 #Jump( dev_docs \Pen WIP 
 # \Pen WIP Features 
 This document is pre-release documentation for the new JaTeX features which are still in the process of being written.)
+#Jump( dev_data_islands \Pen Data Islands
+# \Pen Data Islands
+Work in progress on data mixed with the text)
 #Jump( wip_links \Pen Link Styles
 # \Pen Link Styles
 Work in progress on improved links)

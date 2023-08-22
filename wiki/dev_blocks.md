@@ -1,5 +1,5 @@
 #ScorpioHead(27 February 2022, Scorpio Blocks)
-##Blocks
+## Blocks
  * #Rock(This is still aspirational. There is old code that works to some extent and that needs revitalising.)*
 
 I plan to support a Scratch-like block-based programming interface.  Kids can make interactive games using Scratch.  I don't see why adults shouldn't be able to add interactivity to a diagram by placing click-together blocks. 
@@ -12,7 +12,7 @@ There seems to be a glass-ceiling with Scratch.  Moving on from Scratch to a tex
 
 In part this is because the error messages in Python are often inscrutable.  Scratch sidesteps this by very largely avoiding errors at all.  However languages with more features do seem to need to be able to report errors.
 
-##Errors of Omission
+## Errors of Omission
 
 I plan to fix this problem by reframing many errors as 'something is missing'.  Many errors are in fact detected by the parser as 'omissions'.  The parser expects to find one thing, and it finds something else instead.
 
@@ -20,20 +20,20 @@ I plan to fix this problem by reframing many errors as 'something is missing'.  
 
 These errors can become prompts for what to do to move on from them.  Potentially too the error reporting and keyword completion are part of the same system.
 
-###Other Wrinkles
+### Other Wrinkles
 There are a number of other wrinkles in this updated style.  The input box is the full height of the block, making the tile more compact.  The stem of the 'if' block has a soft break in it, which allows for inclusion of 'else if' clauses, and in a similar style, case statements with multiple options.
 
 The blocks can be faded out, giving a text based interface in the same space.  Round tripping between text and blocks is fully supported.  For example syntactically incorrect programs laid out with unusual line breaks and indentation can still be presented as unusually shaped and laid out blocks.
 
 Another wrinkle is that blocks can be separated and have a cable connecting them.  You can use this to shift from click-together blocks to shader graphs, and mix the two styles in the same program.
 
-##Blocks in the Diagram
+## Blocks in the Diagram
 
 I plan to use blocks in the diagram, e.g. rectangular blocks holding an image or blocks for mathematical symbols with places to attach equations to.  These can be 'clicked together' to lay out the diagram.
 
 The block backgrounds can then be faded out.
 
-##Work in Progress
+## Work in Progress
 
 This diagram below shows how shapes, as used in block based programming, can be built up.  As well as end shapes, we now have edge shapes. This is using style #Code(##CodeTiles).
 !!Scorpio
