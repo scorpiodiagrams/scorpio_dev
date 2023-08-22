@@ -4,30 +4,29 @@
 I haven't yet implemented a menu.
 )
 #LittleLogo(Scorpion)
-#Button(index,Index)
 ----
 ### Work in Progress
-#Jump( wip \Boat Sphere &amp; Fonts
+#Jump( spheres_fonts \Boat Sphere &amp; Fonts
 # \Boat Sphere &amp; Fonts
 Sphere wrapping and an experiemntal font system. The sphere wrapping is Google-Earth lite ( very lite indeed#). The font system is about giving fonts a skeleton.)
-#Jump( wip2 \Boat More Labels 
+#Jump( more_labels \Boat More Labels 
 # \Boat More Labels
 More label features.)
-#Jump( wip3 \Boat Sub Diagrams 
+#Jump( sub_diagrams \Boat Sub Diagrams 
 # \Boat Sankey &amp; Biochemistry
 Sankey diagram and a subdiagram for biochemistry.)
-#Jump( wip4 \Boat Warpables 
+#Jump( warpables \Boat Warpables 
 # \Boat Warpables
 Bugle-graphs, warpable brushes and braids.)
-#Jump( wip5 \Boat Pan &amp; Zoom
+#Jump( dev_zoom \Boat Pan &amp; Zoom
 # \Boat Pan &amp; Zoom
 Maps, Panning and zooming.)
 ----
 ### Development
-#Jump( wip6 \Diamond JaTeX
+#Jump( dev_jatex \Diamond JaTeX
 # \Rock JaTeX
 JaTeX development. JaTeX is a LaTeX inspired syntax for maths.)
-#Jump( wip7 \Diamond Polyglot
+#Jump( dev_polyglot \Diamond Polyglot
 # \Diamond Polyglot Markdown
 Polyglot development. Experiments with a new Markdown parser.)
 #Jump( musings \Pen Musings
@@ -44,7 +43,7 @@ This document is pre-release documentation for the new JaTeX features which are 
 #Jump( dev_data_islands \Pen Data Islands
 # \Pen Data Islands
 Work in progress on data mixed with the text)
-#Jump( wip_links \Pen Link Styles
+#Jump( link_styles \Pen Link Styles
 # \Pen Link Styles
 Work in progress on improved links)
 #Jump( dev_mindmap \Pen Mindmaps!
