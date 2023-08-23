@@ -4,7 +4,7 @@
 { "func": "quick_plot", 
   "data":
 [
-["step", "action", "data", "totalData", "params", "flops"],
+["step", "action", "stage state", "total state", "total params", "total FLOPs"],
 [1, "Init", 150528, 150528, 0, 0],
 [2, "Conv", 279936, 430464, 11616, 67744512],
 [3, "ReLu", 279936, 710400, 11616, 68024448],
