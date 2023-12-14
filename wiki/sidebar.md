@@ -29,6 +29,9 @@ JaTeX development. JaTeX is a LaTeX inspired syntax for maths.)
 #Jump( dev_polyglot \Diamond Polyglot
 # \Diamond Polyglot Markdown
 Polyglot development. Experiments with a new Markdown parser.)
+#Jump( dev_multiscroller \Diamond Mutiscroller
+# \Diamond Multiscroller
+Experiments with a multiscroller.)
 #Jump( musings \Pen Musings
 # \Pen Musings
 Reflections on the purpose and direction)
