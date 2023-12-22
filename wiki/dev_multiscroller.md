@@ -7,8 +7,12 @@ We define multiscrollers
 !!Scorpio
 ##GenericDiagram
 caption: Foo
-:A: Testing testing.
-:A: at: 106,18
+:A: [Files]
+:B: [Functions]
+:C: [Instructions]
+:A: at: 20,50
+:B: at: 160,50
+:C: at: 320,50
 
 boxed: 600
 !!Polyglot
