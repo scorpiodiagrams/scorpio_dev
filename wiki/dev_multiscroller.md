@@ -3,7 +3,10 @@
 Experiments with a Multiscroller
 
 We define multiscrollers
-
+!!Multiscroller
+Some text
+!!Polyglot
+Back on terra firma
 !!Scorpio
 ##GenericDiagram
 caption: Foo
